@@ -19,7 +19,7 @@ I combine hands-on experience in IT infrastructure, networks, cloud and solution
 
 ## Portfolio cases
 
-### 01 — Telecom & Network Product
+### 01 — Infrastructure & Network Product
 
 How technical network and telecom demands were structured into product initiatives across multiple specialized teams.
 
